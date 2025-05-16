@@ -223,7 +223,7 @@ p.product-price {
 }
 
 .box-left-off {
-  border-left: none;
+  border-left: 0;
 }
 
 .offer-over.blurred {
